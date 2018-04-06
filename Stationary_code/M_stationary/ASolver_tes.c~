@@ -125,7 +125,7 @@ int main()
 	}
 
 	
-	double complex **VPF=NULL,**VPFCoef,**VPFX,**VPFY,**VPFZ,**p,**rou;
+	double complex **VPF,**VPFCoef,**VPFX,**VPFY,**VPFZ,**p,**rou;
 	double **realu,**realv,**realw,**realp,**realrou,**pXOY;
 	VPF = dmatrix(1,OSNum,1,TNum);
 	VPFCoef=dmatrix(1,OSNum,1,TNum);
