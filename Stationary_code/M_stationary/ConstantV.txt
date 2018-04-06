@@ -1,0 +1,19 @@
+flowdata.txt						    	# flow data file name
+WriteDataSMeshBlade.txt						# source data file name
+WriteObserverSMesh.txt						# observer data file name
+2							        # Blade number	
+1.045							        # Radius of propeller blade
+64							        # TNum
+256							        # FNum
+0.0 							        # MaX
+0.0 							        # MaY
+0.0 							        # MaZ
+21                         					# ObserverThetaNum
+3                           					# ObserverFeiNum
+1.234							        #Rou_0
+340.75							        #C_0
+0.85							        #Tip Mach number of blade or data surface
+31.41592653589793					#Omega
+
+
+
